@@ -6,5 +6,14 @@ PERSIAPAN
 3. Image Armbian
 4. MicroSD 
 
+PROSES
+1. Install Belena Etcher
+2. Masukkan MicroSD 
+3. Jalankan Belena Ether
+4. Pilih Image Armbian
+5. Pilih MicroSD
+6. Klik Flash
+7. Tunggu hingga proses selesai
+8. Cabut MicroSD dan tancapkan lagi
 
 
