@@ -2,10 +2,10 @@ Cara install Armbian di STB B860H versi 2
 
 PERSIAPAN
 1. Software Belena Etcher (https://etcher.balena.io/)
-2. Sofware Bootcard Maker
+2. Sofware Bootcard Maker (ada di file tool.zip)
 3. Image Armbian
 4. MicroSD 
-5. Patch bootloader
+5. Patch bootloader (ada di file tool.zip)
 
 PROSES INSTALL ARMBIAN
 1. Install Belena Etcher
