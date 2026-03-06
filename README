@@ -5,6 +5,7 @@ PERSIAPAN
 2. Sofware Bootcard Maker
 3. Image Armbian
 4. MicroSD 
+5. Patch bootloader
 
 PROSES INSTALL ARMBIAN
 1. Install Belena Etcher
@@ -21,7 +22,7 @@ PROSES INSTALL BOOTLOADER
 2. Pilih uboot.bin
 3. Jangan centang format
 4. Format
-5. Copy 3 file ke MicroSD
+5. Copy 3 path bootloader file ke MicroSD
 
 
 
